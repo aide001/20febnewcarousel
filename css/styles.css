@@ -116,10 +116,10 @@ h2{
 
 #features{
     
-    background-color: #D3D3D3;
+    background-color: #13003F;
     font-family: 'Arial';
     padding: 0 10%;
-        color:black;
+        color:white;
 
         }
 
@@ -131,14 +131,14 @@ h2{
 
 .icon{
 
-    color: #13003F;
+    color: white;
     margin-bottom: 1rem;
 
 
     }
 
 .icon:hover {
- color: #423365;
+ color: #cef4ab;
 
 }
 
